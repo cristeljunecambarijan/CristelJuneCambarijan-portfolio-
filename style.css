@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cristel June T. Cambarijan | Portfolio</title>
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <!-- External CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- HERO -->
+    <section class="hero">
+        <div class="hero-box">
+            <h1>Cristel June <span>T. Cambarijan</span></h1>
+            <p class="subtitle">Bachelor of Science in Computer Science Student</p>
+            <p class="tagline">
+                Exploring technology with creativity, discipline, and purpose
+            </p>
+        </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section class="section">
+        <h2>About Me</h2>
+        <div class="card">
+            <p>
+                I am a 19-year-old Bachelor of Science in Computer Science student at
+                Sultan Kudarat State University. I am focused on building strong
+                foundations in computing, programming, and web development.
+                I value both creativity and structure, aiming to grow into a
+                competent and ethical professional in the technology field.
+            </p>
+        </div>
+    </section>
+
+    <!-- DETAILS -->
+    <section class="section">
+        <h2>Personal Information</h2>
+        <div class="details-grid">
+            <div class="detail"><strong>Name:</strong> Cristel June T. Cambarijan</div>
+            <div class="detail"><strong>Age:</strong> 19 years old</div>
+            <div class="detail"><strong>Course:</strong> BS Computer Science</div>
+            <div class="detail"><strong>University:</strong> Sultan Kudarat State University</div>
+            <div class="detail"><strong>Email:</strong> cristeljunecambarija@sksu.edu.phn</div>
+            <div class="detail"><strong>Location:</strong> Philippines, ISK</div>
+        </div>
+    </section>
+
+    <!-- SKILLS -->
+    <section class="section">
+        <h2>Skills</h2>
+        <div class="skills">
+            <span>HTML & CSS</span>
+            <span>Programming Fundamentals</span>
+            <span>Problem Solving</span>
+            <span>GitHub & Version Control</span>
+            <span>Academic Writing</span>
+        </div>
+    </section>
+
+    <!-- GOALS -->
+    <section class="section">
+        <h2>Career Goals</h2>
+        <div class="card">
+            <p>
+                I aspire to continuously improve my technical skills while adapting
+                to emerging technologies. My goal is to contribute to meaningful
+                projects, collaborate effectively with others, and grow into a
+                reliable computer science professional who values innovation and
+                responsibility.
+            </p>
+        </div>
+    </section>
+
+    <footer>
+        © 2025 Cristel June T. Cambarijan • Portfolio
+    </footer>
+
+</body>
+</html>
